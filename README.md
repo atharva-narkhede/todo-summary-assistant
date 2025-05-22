@@ -31,7 +31,7 @@ A full-stack app to manage personal todos, summarize them using **Cohere AI**, a
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/todo-summary-assistant.git
+git clone https://github.com/atharva-narkhede/todo-summary-assistant.git
 cd todo-summary-assistant
 ```
 
@@ -128,12 +128,11 @@ app.use(cors({
 
 ## 📸 Screenshots
 
-> *(Add UI screenshots of your app here showing todo list, Slack message, etc.)*
+
 
 ---
 
 ## ✍️ Author
 
-* [Your Name](https://github.com/your-username)
-* Made with ❤️ as a Full Stack Internship Assignment
+* [Atharva Narkhede](https://github.com/atharva-narkhede)
 
